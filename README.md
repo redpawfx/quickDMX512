@@ -1,5 +1,6 @@
 # quickDMX512
 Clone of carldebilly https://quickdmx.codeplex.com  A simple C# DMX 512 Framework 
+Codeplex is shutting down and I wanted to archive this great bit of code 
 
 QuickDmx - A simple DMX 512 framework
 QuickDmx is a simple framework you can use to extend and quickly create scalable applications who act as Dmx 512 controllers.
